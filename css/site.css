@@ -40,7 +40,7 @@ html {
   filter: grayscale(100%); }
 
 footer a:not(.nav-link) {
-  color: inherit;
+ color: rgba(0, 0, 0, 0.8); }
   border-bottom: 1px dashed;
   text-decoration: none;
   cursor: pointer; }
